@@ -1,0 +1,2 @@
+take 2>npm run dev:full
+client>npm start
